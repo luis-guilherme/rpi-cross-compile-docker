@@ -1,6 +1,5 @@
 # Raspberry Pi Linux Cross-compilation Environment
 
-> **NOTE**: The old Vagrant and VirtualBox-based build environment is now stored in the [`legacy-vagrant`](legacy-vagrant/) directory.
 
 This environment can be used to [cross-compile the Raspberry Pi OS kernel](https://www.raspberrypi.org/documentation/linux/kernel/building.md) from a Linux, Windows, or Mac workstation using Docker.
 
